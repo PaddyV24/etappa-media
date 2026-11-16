@@ -1,0 +1,13 @@
+1
+00:00:00,300 --> 00:00:02,817
+Etappa plans trips in stages.
+
+2
+00:00:03,300 --> 00:00:07,631
+Stays, ferries and drives, together
+on iPhone and iPad.
+
+3
+00:00:08,300 --> 00:00:11,948
+Coming to the App Store. Explore the
+TestFlight beta.
